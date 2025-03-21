@@ -1,5 +1,7 @@
 # The Bridge and Lantern Riddle
 
+![illustration](the_bridge_and_latern_riddle.png)
+
 This project focuses on developing a **Variational Quantum Circuit** capable of performing **Binary Classification** between two classes: **red wine** and **white wine**, based on their characteristics using machine learning. Our system consists of both quantum and classical components.  
 
 - **Quantum Component (Quantum Circuit):**  
