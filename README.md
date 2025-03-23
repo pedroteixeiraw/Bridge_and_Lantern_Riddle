@@ -2,7 +2,7 @@
 
 ![illustration](the_bridge_and_latern_riddle.png)
 
-This project focuses on solving *The Bridge and Lantern Riddle* using Haskell and the monads of duration and non-determinism.
+This project focus on solving 'The Bridge and Lantern Riddle', while leveraging the use of Cyber-Physical concepts and monads (monads of duration and non-determinism). The programming language of choice was Haskell.
 
 ## The Riddle
 
